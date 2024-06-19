@@ -1,4 +1,4 @@
-CID_497_Athena_Commando_F_WildWest, 1200
+CID_423_Athena_Commando_F_Painter, 1200
 CID_498_Athena_Commando_M_WildWest, 1200
 Pickaxe_ID_114_BadassCowboyCowSkull, 800
 na
